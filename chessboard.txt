@@ -1,5 +1,3 @@
-*/
-
 let size = 8;
 let board = " ";
 
